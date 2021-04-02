@@ -1,0 +1,5 @@
+What is the difference between a python module and python packages?
+Modules are just some .py scripts that you call inside some other .py scripts
+whereas Packages are just collection of modules.
+
+You should let python know that the packages are not just directories but to be treated as packages for which for that inside both packages and subpackage directory make file named __init__.py
